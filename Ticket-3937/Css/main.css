@@ -1,16 +1,16 @@
 @font-face { 
   font-family:Minecraft Seven v2;
   font-weight:900;
-  src:url(../Fonts/Minecraft-Seven_v2.f387dfdf937f37d550bf.eot) format("embedded-opentype"),url(../Fonts/Minecraft-Seven_v2.25165468a3cf93c944f6.woff2) format("woff2"),url(../Fonts/Minecraft-Seven_v2.45a05bd570ff1410b622.woff) format("woff"),url(../Fonts/Minecraft-Seven_v2.787766c1fa8a2b2092ef.ttf) format("truetype");
+  src:url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Fonts/Minecraft-Seven_v2.f387dfdf937f37d550bf.eot) format("embedded-opentype"),url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Fonts/Minecraft-Seven_v2.25165468a3cf93c944f6.woff2) format("woff2"),url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Fonts/Minecraft-Seven_v2.45a05bd570ff1410b622.woff) format("woff"),url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Fonts/Minecraft-Seven_v2.787766c1fa8a2b2092ef.ttf) format("truetype");
 } 
 @font-face { 
   font-family:Minecraft Ten v2;
   font-weight:900;
-  src:url(../Fonts/Minecraft-Tenv2.5cd8d231cf91cff5411d.eot) format("embedded-opentype"),url(../Fonts/Minecraft-Tenv2.bffc0bbd0b64c37626a6.woff2) format("woff2"),url(../Fonts/Minecraft-Tenv2.d065247c840301572663.woff) format("woff"),url(../Fonts/Minecraft-Tenv2.0bd16dcf6778ff07cfce.ttf) format("truetype");
+  src:url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Fonts/Minecraft-Tenv2.5cd8d231cf91cff5411d.eot) format("embedded-opentype"),url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Fonts/Minecraft-Tenv2.bffc0bbd0b64c37626a6.woff2) format("woff2"),url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Fonts/Minecraft-Tenv2.d065247c840301572663.woff) format("woff"),url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Fonts/Minecraft-Tenv2.0bd16dcf6778ff07cfce.ttf) format("truetype");
 } 
 @font-face { 
   font-family:Noto Sans;
-  src:url(../Fonts/NotoSans-Regular.bd1bddc31f2bb86ef383.eot) format("embedded-opentype"),url(../Fonts/NotoSans-Regular.04df2e56be671db0983d.woff2) format("woff2"),url(../Fonts/NotoSans-Regular.6c05577ef4a3511f1235.woff) format("woff"),url(../Fonts/NotoSans-Regular.a50ccd7ec8e550220297.ttf) format("truetype");
+  src:url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Fonts/NotoSans-Regular.bd1bddc31f2bb86ef383.eot) format("embedded-opentype"),url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Fonts/NotoSans-Regular.04df2e56be671db0983d.woff2) format("woff2"),url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Fonts/NotoSans-Regular.6c05577ef4a3511f1235.woff) format("woff"),url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Fonts/NotoSans-Regular.a50ccd7ec8e550220297.ttf) format("truetype");
 } 
 * { 
     box-sizing: border-box;
@@ -46,18 +46,18 @@ html {
       0deg,
       var(--black-A33),
       var(--black-A33)
-    ),var(--blue-legend-01); 
+    ,var(--blue-legend-01); 
     var(--black-05),
     var(--white-02)
-  ); 
+  ; 
     180deg,
     var(--orange-dungeons-02) 0,
     var(--orange-dungeons-01) 100%
-  ); 
+  ; 
       0deg,
       var(--black-A33),
       var(--black-A33)
-    ),linear-gradient(
+    ,linear-gradient(
       180deg,
       var(--orange-dungeons-02) 0,
       var(--orange-dungeons-01) 100%
@@ -65,7 +65,7 @@ html {
       0deg,
       var(--black-A26),
       var(--black-A26)
-    ),var(--green-vanilla-01); 
+    ,var(--green-vanilla-01); 
 } 
 
 body { 
@@ -639,7 +639,7 @@ nav.mc-globalhead__accountnav.mc-globalhead__topnav {
 }     
 
 .global-search-wrapper .searchbox-wrapper .search-icon  { 
-    background: url(../Images/icon_search.62a7b5b663530e254bc6.svg); 
+    background: url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Images/icon_search.62a7b5b663530e254bc6.svg); 
     height: 1.5rem; 
     left: .875rem; 
     position: absolute; 
@@ -787,7 +787,7 @@ nav.mc-globalhead__accountnav.mc-globalhead__topnav {
 } 
 
 .helpsite-redesign-header .mc-globalbanner__promo-link .icon.icon-back-arrow  { 
-    background: url(../Images/icon-arrowBack.svg); 
+    background: url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Images/icon-arrowBack.svg); 
     background-repeat: no-repeat; 
     width: 14px; 
     height: 16px; 
@@ -990,7 +990,7 @@ nav.mc-globalhead__accountnav.mc-globalhead__topnav {
 } 
 
 .icon-green-right-arrow { 
-    background: url(../Images/icon-green-right-arrow.bfff22302a019de5450f.svg); 
+    background: url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Images/icon-green-right-arrow.bfff22302a019de5450f.svg); 
     display: inline-block; 
     height: .875rem; 
     margin-left: .5rem; 
@@ -1002,7 +1002,7 @@ nav.mc-globalhead__accountnav.mc-globalhead__topnav {
 } 
 
 .external-link { 
-    background: url(../Images/icon-external-link.82d8065b2184ffd4488d.svg); 
+    background: url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Images/icon-external-link.82d8065b2184ffd4488d.svg); 
     display: inline-block; 
     height: .5rem; 
     width: .5rem;
@@ -1019,7 +1019,7 @@ nav.mc-globalhead__accountnav.mc-globalhead__topnav {
 .mc-globalfooter .mc-socialicon i  { 
     background-repeat: no-repeat; 
     display: block; 
-    background-image: url(../Images/sprite.svg); 
+    background-image: url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Images/sprite.svg); 
     height: 32px; 
     width: 32px; 
     background-repeat-x: no-repeat; 
@@ -1258,7 +1258,7 @@ h3 {
 } 
 
 .mc-globalfooter__icon-globe { 
-    background-image: url(../Images/globe.svg); 
+    background-image: url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Images/globe.svg); 
     background-repeat: no-repeat; 
     display: block; 
     width: 24px; 
@@ -1293,7 +1293,7 @@ h3 {
 } 
 
 .helpsite-redesign-header .help-site-redeem .icon.icon-link  { 
-    background: url(../Images/icon-link-green.svg); 
+    background: url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Images/icon-link-green.svg); 
     background-repeat: no-repeat; 
     width: 7px; 
     height: 7px; 
@@ -1303,7 +1303,7 @@ h3 {
 } 
 
 .helpsite-redesign-header .mc-globalhead__topnav ul li a.help-site-redeem:hover .icon.icon-link  { 
-    background: url(../Images/icon-link-white.svg);
+    background: url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Images/icon-link-white.svg);
 } 
 
 .mc-globalhead__drop-trigger { 
@@ -1386,7 +1386,7 @@ h3 {
 }     
 
 .card-wrapper .card-box .card-icon-wrapper .card-arrow-icon  { 
-    background-image: url(../Images/icon-white-right-arrow.a29c1a2eee883a271fd8.svg); 
+    background-image: url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Images/icon-white-right-arrow.a29c1a2eee883a271fd8.svg); 
     background-size: 100%; 
     display: block; 
     height: .875rem; 
@@ -1405,13 +1405,13 @@ h3 {
 }     
 
 .helpsite-redesign-header .mc-globalhead__drop-trigger .mc-globalhead__drop-trigger-text  { 
-    background-image: url(../Images/down-arrow.png); 
+    background-image: url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Images/down-arrow.png); 
     display: inherit;
 } 
 
 @media only screen and (min-width: 577px){ 
   .mc-globalhead__drop-container .mc-globalhead__drop-trigger .mc-globalhead__drop-trigger-text.mc-chevron  { 
-    background-image: url(../Images/down-arrow.png); 
+    background-image: url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Images/down-arrow.png); 
     background-repeat: no-repeat; 
     background-size: 10px 6px; 
     background-position: 100% 50%; 
@@ -1421,7 +1421,7 @@ h3 {
   } 
 
   .helpsite-redesign-header .mc-globalhead__drop-container .mc-globalhead__drop-trigger .mc-globalhead__drop-trigger-text.mc-chevron  { 
-    background-image: url(../Images/down-arrow.png);
+    background-image: url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Images/down-arrow.png);
   } 
 }     
 
@@ -1438,7 +1438,7 @@ h3 {
 
 @media only screen and (min-width: 577px){ 
   .mc-globalhead__accountnav .mc-globalhead__drop-trigger .mc-globalhead__drop-trigger-text.mc-chevron  { 
-    background-image: url(../Images/down-arrow-green.png); 
+    background-image: url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Images/down-arrow-green.png); 
     background-repeat: no-repeat; 
     background-size: 10px 6px; 
     background-position: 100% 50%; 
@@ -1496,7 +1496,7 @@ h3 {
 }     
 
 .mc-globalhead__drop-nav .mc-globalhead__drop-link .icon.icon-arrow  { 
-    background-image: url(../Images/up-arrow.png); 
+    background-image: url(https://raw.githubusercontent.com/narkhedegs/Assets/main/Ticket-3937/Images/up-arrow.png); 
     background-repeat: no-repeat; 
     height: 10px; 
     width: 10px; 
